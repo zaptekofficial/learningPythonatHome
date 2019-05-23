@@ -1,0 +1,31 @@
+# try:
+#     b = 2 + "this"
+#     print(b)
+#
+# except Exception as i:
+#     print(i)
+
+### OBJECT ORIENTED PYTHON
+
+'''
+In classes, functions = methods
+            data = attributes
+'''
+
+# STUDENT CLASS
+
+class student:
+    def __init__(self, name, rollNumber, phoneNumber, email):
+        self.name = name
+        self.rollNumber = rollNumber
+        self.phoneNumber = phoneNumber
+        self.email = email
+
+    def displayAllInfo(self):
+        print(self.name + "\n" + str(self.rollNumber) + "\n" + str(self.phoneNumber) + "\n" + self.email)
+
+firstStudent = student("Zohaib Ahsan", 750093, 3082106908, "zaptekofficial@gmail.com")
+secondStudent = student("Ali Haider", 750092, 3123123123, "aliofficial@gmail.com")
+
+firstStudent.displayAllInfo()
+student.displayAllInfo(secondStudent)
