@@ -4,8 +4,6 @@
 
 import datetime
 
-rollNumber = 0
-
 class student:
     rollNumber = 0
     fees = 3000
@@ -83,3 +81,4 @@ thirdStudent = student.fromInput("Talha 3153243242 talha@gmail.com")
 #print(thirdStudent.__dict__)
 
 print(student.isOff(datetime.date(2019, 5, 19)))
+
