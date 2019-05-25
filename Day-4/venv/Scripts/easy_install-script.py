@@ -1,4 +1,4 @@
-#!"C:\Everything\OneDrive - Higher Education Commission\Learning Python At Home\Student Management Software\venv\Scripts\python.exe"
+#!"C:\Everything\OneDrive - Higher Education Commission\Learning Python At Home\Day-4\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==39.1.0','console_scripts','easy_install'
 __requires__ = 'setuptools==39.1.0'
 import re

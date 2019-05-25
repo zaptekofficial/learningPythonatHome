@@ -1,4 +1,4 @@
-#!"C:\Everything\OneDrive - Higher Education Commission\Learning Python At Home\Student Management Software\venv\Scripts\python.exe"
+#!"C:\Everything\OneDrive - Higher Education Commission\Learning Python At Home\Day-4\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==10.0.1','console_scripts','pip3'
 __requires__ = 'pip==10.0.1'
 import re
